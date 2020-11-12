@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./App.css";
 import Categories from "./components/Categories";
 import Menu from "./components/Menu";
 
